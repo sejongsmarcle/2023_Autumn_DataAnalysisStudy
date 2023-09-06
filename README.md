@@ -129,6 +129,5 @@
 
 ### 기타 참고사항
 - 어쩌다 데이터 분석 with 파이썬, 한빛미디아
-- [하이퍼링크_관련 과목 수업자료]()
 - [2022_Autumn_DataAnalysisStudy](https://github.com/sejongsmarcle/2022_Autumn_DataAnalysisStudy/tree/main)
 - [2023_Winter_AiStudy](https://github.com/sejongsmarcle/2023_Winter_AiStudy)
