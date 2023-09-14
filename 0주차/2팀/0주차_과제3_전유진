@@ -1,0 +1,8 @@
+data1 = np.arange(10)
+data2 = np.arange(110,10,-10)
+data = data2-data1*10
+data = data/10
+
+print(sum(data >= data1))
+
+위 코드의 출력 결과는 무엇인가?
