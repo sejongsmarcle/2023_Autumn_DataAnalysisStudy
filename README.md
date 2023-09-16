@@ -66,7 +66,7 @@
 
 |1팀|2팀|3팀|4팀|5팀|
 |:---:|:---:|:---:|:---:|:---:|
-||||뉴진스||
+||||||
 |김상완|강성욱|박경준|오승민|김민성|
 |김하윤|강지영|박찬얼|이계무|김범열|
 |박광석|김태경|임시현|정재석|석민정|
@@ -94,5 +94,7 @@
 
 ### 기타 참고사항
 - 어쩌다 데이터 분석 with 파이썬, 한빛미디아
+- [어쩌다 데이터 분석_저자의 실습용 깃허브 링크](https://github.com/claryk0520/bumping-into-data-analysis)
+- [어쩌다 데이터 분석_저자의 실습용 블로그 링크](https://blog.naver.com/youji4ever)
 - [2022_Autumn_DataAnalysisStudy](https://github.com/sejongsmarcle/2022_Autumn_DataAnalysisStudy/tree/main)
 - [2023_Winter_AiStudy](https://github.com/sejongsmarcle/2023_Winter_AiStudy)
