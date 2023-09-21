@@ -1,0 +1,5 @@
+import seaborn as sns
+peng = sns.load_dataset('penguins')
+
+위 dataset에서 'island'와 'bill_length_mm'를 인덱스로 갖는 데이터프레임 df_new를 만들어보자.
+그리고 그 데이터프레임 df_new의 평균,분산 등 기술통계를 확인해보자.
